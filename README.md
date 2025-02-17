@@ -1,2 +1,2 @@
-# accordion
+# Alarm
 Creating an Alarm Clock
